@@ -1,5 +1,3 @@
-### README.md
-
 # Projeto de Análise de Dados de Crimes
 
 Este projeto, desenvolvido na disciplina de Estrutura de Dados do Instituto Federal do Rio Grande do Sul, é um programa em C que realiza a leitura, armazenamento e busca de dados de crimes utilizando estruturas de dados como arrays e tabelas hash. Ele é capaz de carregar dados de arquivos CSV, ordenar esses dados para buscas binárias e armazená-los em uma tabela hash para buscas eficientes.
