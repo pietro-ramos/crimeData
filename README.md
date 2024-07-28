@@ -17,8 +17,9 @@ Este projeto, desenvolvido na disciplina de Estrutura de Dados do Instituto Fede
 
 ## Como Compilar
 
-O projeto foi desenvolvido utilizando Dev C++, caso interesse, baixe o programa [aqui](https://www.bloodshed.net) e execute o .dev, apos, utilize os atalhos para compilaçao e execuçao.
-Para compilar o projeto, use o `gcc` ou outro compilador C compatível. Aqui está um exemplo de comando para compilar o projeto usando `gcc`:
+- O projeto foi desenvolvido utilizando Dev C++, caso interesse, baixe o programa [aqui](https://www.bloodshed.net) e execute o .dev, apos, utilize os atalhos para compilaçao e execuçao.
+
+- Para compilar o projeto, use o `gcc` ou outro compilador C compatível. Aqui está um exemplo de comando para compilar o projeto usando `gcc`:
 
 ```sh
 gcc -o crimeAnalysis main.c crimeData.c
